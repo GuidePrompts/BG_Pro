@@ -1,4 +1,3 @@
-pip install --upgrade pip
 streamlit
 rembg[cpu]
 pillow
